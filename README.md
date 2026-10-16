@@ -1,0 +1,2 @@
+# good-code
+my location
